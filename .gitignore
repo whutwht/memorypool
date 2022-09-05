@@ -1,0 +1,12 @@
+.vs/
+.vscode/
+out/
+build/
+cmake/
+build_debug/
+build_release/
+CMakeFiles/
+*.vcxproj*
+*.json
+Debug/
+*.sln
